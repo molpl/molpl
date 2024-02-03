@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Molly</h1>
-<h3 align="center">A data scientist</h3>
+<h3 align="center">A love of all things data!</h3>
 
-- 🔭 I’m currently working on **Artsy-Fartsci**
+- 🔭 I’m currently **working with Waterstones on their journey to improve their use of data** and **working as a Data Science TA at Le Wagon**
 
-- 🌱 I’m currently learning **put something here**
+- 🌱 I’m currently learning **AWS Cloud Technology**
 
-- 👨‍💻 All of my projects are available at [something](something)
-
-- 📄 Know about my experiences [something](something)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
